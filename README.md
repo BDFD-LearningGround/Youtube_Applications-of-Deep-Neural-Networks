@@ -1,29 +1,17 @@
-<!--
- * @Author: BDFD
- * @Date: 2022-01-12 22:38:38
- * @LastEditTime: 2022-02-23 12:24:43
- * @LastEditors: BDFD
- * @Description:
- * @FilePath: \3.0-Course-Name_Coursera_Template\README.md
--->
-
-Descritpion Template
-Quizzes & Assignment Solutions for Entire $(Course Name) on Coursera. Also included a few resources on side that I found helpful.
-
-Common Tag: data-science, python, data-visualization, cousera, assignment-solution, quiz, sql, data-analytics, excel
-
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
-![ViewCount](<https://views.whatilearened.today/views/github/$(github_user)/$(repo_address).svg?cache=remove>)
-![GitHub top language](<https://img.shields.io/github/languages/top/$(github_user)/$(repo_address)?style=flat>)
-![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/IBM-Data-Analyst-Professional-Certificate_Coursera_?style=flat)
-![GitHub language count](<https://img.shields.io/github/languages/count/$(github_user)/$(repo_address)?style=flat>)
-<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
+![ViewCount](https://views.whatilearened.today/views/github/BDFD-LearningGround/Youtube_Applications-of-Deep-Neural-Networks-OP.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/BDFD-LearningGround/Youtube_Applications-of-Deep-Neural-Networks-OP?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/Youtube_Applications-of-Deep-Neural-Networks-OP?style=flat)
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
 
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>$(Course-NAME{Coursera})[![View My Profile]
+<!-- <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" /> -->
+
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>Application of Deep Neural Networks
 
 ## About This Course/Certificate
-![commits](https://img.shields.io/github/last-commit/BDFD-LearningGround/Cousera_Google-Data-Analytics-Professional-Certificate?label=Last%20Commit%20)
+
+![commits](https://img.shields.io/github/last-commit/BDFD-LearningGround/Youtube_Applications-of-Deep-Neural-Networks-OP?label=Last%20Commit%20)
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffffff&color=316999"/>  
   <img src="https://img.shields.io/badge/pandas-%23130754.svg?style=plastic&logo=pandas&logoColor=white&color=4E447F"/>
@@ -34,46 +22,56 @@ Common Tag: data-science, python, data-visualization, cousera, assignment-soluti
 </p> 
 About This workshop and the materials in this repo are for anyone who is interested in working with Data Science to produce high quality, working style! Check out follow course link if you think it is interested.
 
-**Course Link:** [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+**Course Link:** [Application of Deep Neural Networks](https://www.youtube.com/watch?v=rdRhtbMrWYg&list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN&index=1)
 
 ## Course Learn Path
 
 The courses enlisted as follows:
 
-- [x] **C1-**
-- [x] **C2-**
-- [ ] **C3-**
+- [ ] **C1-Python Preliminaries**
+- [ ] **C2-Python for Machine Learning**
+- [ ] **C3-TensorFlow and Keras for Neural Networks**
+- [ ] **C4-Traning for Tabular Data**
+- [ ] **C5-Regularization and Dropout**
+- [ ] **C6-CNN for Vision**
+- [ ] **C7-Generative Adversarial Networks(GANs)**
+- [ ] **C8-Kaggle**
+- [ ] **C9-Transfer Learning**
+- [ ] **C10-Time Series in Keras**
+- [ ] **C11-Natural Language Processing**
+- [ ] **C12-Reinforcement Learning**
+- [ ] **C13-Deployment and Monitoring**
 
-## Course Description: 1 Course
+## Course Description: 12 Chapter
 
-Sponsor University : Duke University  
+Sponsor University : Washington University in St.Louis
 <img height=100 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/10.%20Course_Learning/1.0%20Coursera/Duke%20University-1.png" alt="bdfd" />
 
 Main Instructor:
 
-1. Andrew D. Hilton
-2. Nick Eubank
-3. Genevieve M. Lipp
-4. Kyle Bradbury
-   
+1. Jeff Heaton
+
 <br/>
-Data science courses contain math—no avoiding that! This course is designed to teach learners the basic math you will need in order to be successful in almost any data science math course and was created for learners who have basic math skills but may not have taken algebra or pre-calculus. Data Science Math Skills introduces the core math that data science is built upon, with no extra complexity, introducing unfamiliar ideas and math symbols one-at-a-time.
+Deep learning is a group of exciting new technologies for neural networks. Through a combination of advanced training techniques and neural network architectural components, it is now possible to create neural networks that can handle tabular data, images, text, and audio as both input and output. Deep learning allows a neural network to learn hierarchies of information in a way that is like the function of the human brain. This course will introduce the student to classic neural network structures, Convolution Neural Networks (CNN), Long Short-Term Memory (LSTM), Gated Recurrent Neural Networks (GRU), General Adversarial Networks (GAN) and reinforcement learning. Application of these architectures to computer vision, time series, security, natural language processing (NLP), and data generation will be covered. High Performance Computing (HPC) aspects will demonstrate how deep learning can be leveraged both on graphical processing units (GPUs), as well as grids. Focus is primarily upon the application of deep learning to problems, with some introduction to mathematical foundations. Students will use the Python programming language to implement deep learning using Google TensorFlow and Keras. It is not necessary to know Python prior to this course; however, familiarity of at least one programming language is assumed. This course will be delivered in a hybrid format that includes both classroom and online instruction.
 
 ## Applied Learning Project
 
 **Tools:** Jupyter / JupyterLab, GitHub,
 
-**Libraries:** Pandas, NumPy
+**Libraries:** Keras
 
-**Projects:** ABC Project Name
+**Projects:**
 
 #### Useful Resources
 
-- [Course Link](https://www.coursera.org/professional-certificates/ibm-data-science)
+Video Reference:<a href="https://www.youtube.com/watch?v=rdRhtbMrWYg&list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN&index=1"><Resource Name-Youtube> Youtube Video Reference</a>  
+Github Project Reference:<a href="https://github.com/jeffheaton/t81_558_deep_learning"><Resource Name-Youtube> Github Repo Reference</a>
+
+<!-- Resource Reference:<a href="https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction/code?datasetId=426827&sortBy=voteCount"><Resource Name-Kaggle> Kaggle Problem Reference</a> -->
 
 ## Course Certificate
 
-Total Hours: ~13 Hrs
+Total Hours: ~115 Hrs
 
 <div align="center">
 
